@@ -1,0 +1,27 @@
+.list {
+  list-style: none;
+}
+
+.list .listItem {
+  display: flex;
+  padding: 5px;
+  background-color: #f9fbfc;
+  border-radius: 5px;
+  margin-bottom: 5px;
+}
+
+.list .listItem .task {
+  flex: 1;
+  text-align: left;
+  padding-left: 5px;
+  font-weight: 100;
+  font-size: 14px;
+}
+
+.list .listItem .deleteButton {
+  background-color: transparent;
+  color: red;
+  border: none;
+  font-size: 12px;
+  font-weight: 200;
+}

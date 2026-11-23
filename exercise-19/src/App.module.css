@@ -1,0 +1,15 @@
+.todoContainer {
+  max-width: 50%;
+  margin-inline: auto;
+  background-color: #ffffff;
+  text-align: center;
+  margin-block: 20px;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.todoTitle {
+  font-weight: 700;
+  font-size: 32px;
+  padding-bottom: 16px;
+}

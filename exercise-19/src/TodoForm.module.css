@@ -1,0 +1,23 @@
+.formContainer {
+  display: flex;
+  padding: 8px;
+}
+
+.FormInput {
+  flex: 1;
+  margin-right: 4px;
+  border: none;
+  outline: none;
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid #e5e5e5;
+}
+
+.formBtn {
+  padding-block: 5px;
+  padding-inline: 10px;
+  border-radius: 5px;
+  border: none;
+  background-color: #8e0ef8;
+  color: #ffff;
+}
